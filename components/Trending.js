@@ -58,7 +58,7 @@ export default function Trending() {
           <div className="flex space-x-3">
             <img
               className="w-11 h-11 object-cover rounded-full"
-              src="/assets/Andreas.png"
+              src="/assets/Andreas.jpg"
             />
             <div>
               <div className="flex space-x-1">
@@ -81,7 +81,7 @@ export default function Trending() {
           <div className="flex space-x-3">
             <img
               className="w-11 h-11 object-cover rounded-full"
-              src="/assets/Andreas.png"
+              src="/assets/Andreas.jpg"
             />
             <div>
               <div className="flex space-x-1">
@@ -104,7 +104,7 @@ export default function Trending() {
           <div className="flex space-x-3">
             <img
               className="w-11 h-11 object-cover rounded-full"
-              src="/assets/Andreas.png"
+              src="/assets/Andreas.jpg"
             />
             <div>
               <div className="flex space-x-1">
